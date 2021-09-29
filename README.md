@@ -6,7 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/dsc-jiit-128/ML_classification_Hacktoberfest)](https://github.com/dsc-jiit-128/ML_classification_Hacktoberfest/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?)](https://github.com/dsc-jiit-128/class_bot/issues)
 
-# Iris Classification
+# King-Rook Vs King-Pawn Classification
 
 **SOURCE CODE ( GOOGLE COLAB )** 
  - *https://colab.research.google.com/drive/1TyKeWPdRRWGTRl8lfa8aIJvNjq8F_deH?usp=sharing*
