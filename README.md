@@ -1,16 +1,15 @@
 # HACKTOBERFEST 2021 is here! ✨
-<img src="./jiit128.png">
+<p align="center"><img src="https://drive.google.com/uc?export=view&id=1S0cxxnFmQ99ExpKxuC5i3ROT2ppA0gs0"></p>
 
-[![HitCount](http://hits.dwyl.com/dsc-jiit-128/Hacktoberfest_ML_classification.svg)](http://hits.dwyl.com/dsc-jiit-128/Hacktoberfest_ML_classification)
-[![GitHub stars](https://img.shields.io/github/stars/dsc-jiit-128/Hacktoberfest_ML_classification?color=green)](https://github.com/dsc-jiit-128/Hacktoberfest_ML_classification/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/dsc-jiit-128/Hacktoberfest_ML_classification?color=green)](https://github.com/dsc-jiit-128/Hacktoberfest_ML_classification/network)
-[![GitHub issues](https://img.shields.io/github/issues/dsc-jiit-128/Hacktoberfest_ML_classification)](https://github.com/dsc-jiit-128/Hacktoberfest_ML_classification/issues)
+[![GitHub stars](https://img.shields.io/github/stars/dsc-jiit-128/ML_classification_Hacktoberfest?color=green)](https://github.com/dsc-jiit-128/ML_classification_Hacktoberfest/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/dsc-jiit-128/ML_classification_Hacktoberfest?color=green)](https://github.com/dsc-jiit-128/ML_classification_Hacktoberfest/network)
+[![GitHub issues](https://img.shields.io/github/issues/dsc-jiit-128/ML_classification_Hacktoberfest)](https://github.com/dsc-jiit-128/ML_classification_Hacktoberfest/issues)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?)](https://github.com/dsc-jiit-128/class_bot/issues)
 
 # Iris Classification
 
 **SOURCE CODE ( GOOGLE COLAB )** 
- - *https://colab.research.google.com/drive/1g2aid5hOIiArOxLW3pJjoue9wmPt9zLS#scrollTo=YvGPUQaHhXfL*
+ - *https://colab.research.google.com/drive/1TyKeWPdRRWGTRl8lfa8aIJvNjq8F_deH?usp=sharing*
  - `Provided as Hacktoberfest_DSC_JIIT128_Classification.ipynb in the root directory.`
 
 **TASK**
@@ -20,12 +19,12 @@
 
  - `Fork the repository and clone.`
  - `Upload your notebook in .ipynb format inside Submissions folder.`
- -  The file name should be of the format: `<Your_Name>_<Your_College>    For example: ManasDalakoti_JIIT128.ipynb`
+ -  The file name should be of the format: `<Your_Name>_<Your_College>    For example: SarthakPant_JIIT128.ipynb`
  - `Then add a Pull Request.`
 
 **Important Notes**
- - `Use the sklearn Iris Dataset only.`
- - `While doing test-train-split, use parameters test_size = 0.2 and random_state = 0.`
+ - `Use the dataset given above only.`
+ - `While doing test-train-split, use parameters that suits your model best way`
  - `Advanced Deep Learning Algorithms can also be used.`
  
 **How to reach us**
@@ -40,6 +39,4 @@
 
 ### Enjoy Machine Learning!
 ### HURRAYYY!!! You just got closer to completing your Hacktoberfest challenge.🌱
- 
- 
- TO BE EDITED
+
