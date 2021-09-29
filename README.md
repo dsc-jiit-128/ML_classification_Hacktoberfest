@@ -10,7 +10,6 @@
 
 **SOURCE CODE ( GOOGLE COLAB )** 
  - *https://colab.research.google.com/drive/1TyKeWPdRRWGTRl8lfa8aIJvNjq8F_deH?usp=sharing*
- - `Provided as Hacktoberfest_DSC_JIIT128_Classification.ipynb in the root directory.`
 
 **TASK**
  - `Create a Machine Learning Classification Model that can perform better on the Given Dataset.`
