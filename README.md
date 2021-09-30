@@ -13,6 +13,7 @@
 
 **TASK**
  - `Create a Machine Learning Classification Model that can perform better on the Given Dataset.`
+ - `Create EDA for data-set`
  
 **How to contribute**
 
