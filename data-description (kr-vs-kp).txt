@@ -63,4 +63,48 @@ the order in which their values appear in the feature-value list:
  skrxp,spcop,stlmt,thrsk,wkcti,wkna8,wknck,wkovl,wkpos,wtoeg]
 
 In the file, there is one instance (board position) per line.
+Num Instances: 3196
+Num Attributes: 37
+Num Continuous: 0 (Int 0 / Real 0)
+Num Discrete: 37
+Missing values: 0 / 0.0%.
+
+Field Name	Order	Type (Format)
+bkblk	1	string (default)
+bknwy	2	string (default)
+bkon8	3	string (default)
+bkona	4	string (default)
+bkspr	5	string (default)
+bkxbq	6	string (default)
+bkxcr	7	string (default)
+bkxwp	8	string (default)
+blxwp	9	string (default)
+bxqsq	10	string (default)
+cntxt	11	string (default)
+dsopp	12	string (default)
+dwipd	13	string (default)
+hdchk	14	string (default)
+katri	15	string (default)
+mulch	16	string (default)
+qxmsq	17	string (default)
+r2ar8	18	string (default)
+reskd	19	string (default)
+reskr	20	string (default)
+rimmx	21	string (default)
+rkxwp	22	string (default)
+rxmsq	23	string (default)
+simpl	24	string (default)
+skach	25	string (default)
+skewr	26	string (default)
+skrxp	27	string (default)
+spcop	28	string (default)
+stlmt	29	string (default)
+thrsk	30	string (default)
+wkcti	31	string (default)
+wkna8	32	string (default)
+wknck	33	string (default)
+wkovl	34	string (default)
+wkpos	35	string (default)
+wtoeg	36	string (default)
+class	37	string (default)
 
