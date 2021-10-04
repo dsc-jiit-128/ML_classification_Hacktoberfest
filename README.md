@@ -12,14 +12,14 @@
  - *https://colab.research.google.com/drive/1TyKeWPdRRWGTRl8lfa8aIJvNjq8F_deH?usp=sharing*
 
 **TASK**
- - `Create a Machine Learning Classification Model that can perform better on the Given Dataset.`
+ - `Create a Machine Learning Classification Model that can perform better on the Given Dataset. `
  
 **How to contribute**
 
- - `Fork the repository and clone.`
+ - `Fork the repository and  clone.`
  - `Upload your notebook in .ipynb format inside Submissions folder.`
  -  The file name should be of the format: `<Your_Name>_<Your_College>    For example: SarthakPant_JIIT128.ipynb`
- - `Then add a Pull Request.`
+ - `Then add a Pull Request`
 
 **Important Notes**
  - `Use the dataset given above only.`
